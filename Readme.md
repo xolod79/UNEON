@@ -1,4 +1,4 @@
-# FPGA - [Souz Neon PK11/16](https://ru.wikipedia.org/wiki/Союз-Неон_ПК-11/16) for:
+# FPGA - [Soyuz Neon PK11/16](https://ru.wikipedia.org/wiki/Союз-Неон_ПК-11/16) for:
  - [MiST](https://github.com/mist-devel/mist-board/wiki).
  - [MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki).
  - [Terasic DE1](https://www.terasic.com.tw/cgi-bin/page/archive.pl?No=83).
