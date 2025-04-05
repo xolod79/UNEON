@@ -11,7 +11,10 @@ For work with IDE HDD you need install firmware 240105 or later.
 Copy UNEON.VHD to root directory SD Card and rename to UNEON.HD0
 
 Install on MiSTer:
-For work with IDE HDD you need install Main_MiSTer main binary after 2023 Oct 24.
+For work with IDE HDD you need copy MiSTer_Uneon on root Fat SDCard and add the following lines to Mister.ini:
+[Uneon]
+main=MiSTer_Uneon
+
 Copy UNEON.VHD to Games\Uneon directory SD Card. Mount VHD file in core and select Reset on menu. 
 
 Keyboard:
