@@ -14,6 +14,7 @@ Install on MiSTer:
 For work with IDE HDD you need copy MiSTer_Uneon on root Fat SDCard and add the following lines to Mister.ini:
 
 [Uneon]
+
 main=MiSTer_Uneon
 
 Copy UNEON.VHD to Games\Uneon directory SD Card. Mount VHD file in core and select Reset on menu. 
