@@ -1,6 +1,7 @@
 # FPGA - [Soyuz Neon PK11/16](https://ru.wikipedia.org/wiki/Союз-Неон_ПК-11/16) for:
  - [MiST](https://github.com/mist-devel/mist-board/wiki).
  - [MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki).
+ - [Tang Nano 20K](https://github.com/MiSTle-Dev).
  - [Terasic DE1](https://www.terasic.com.tw/cgi-bin/page/archive.pl?No=83).
  - and maybe other. 
 
@@ -12,6 +13,9 @@ Copy UNEON.VHD to root directory SD Card and rename to UNEON.HD0
 
 Install on MiSTer:
 For work with IDE HDD you need copy MiSTer_Uneon on root Fat SDCard and add the following lines to Mister.ini:
+
+Install on Tang Nano 20K:
+Need extreanl MCU M0S(Bl611) or RP2040 or ESP32 and [FPGA-Companion](https://github.com/MiSTle-Dev/FPGA-Companion) firmware.
 
 [Uneon]
 
